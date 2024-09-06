@@ -1,0 +1,165 @@
+{
+  "Newregister": [
+    {
+      "id": "409f",
+      "Name": "Arjun M Nag",
+      "Email": "arjun.mnag27@gmail.com",
+      "DOB": "2024-07-30",
+      "Username": "Arjun",
+      "Password": "Arju",
+      "Mobile": "8722044898"
+    },
+    {
+      "id": "7d89",
+      "Name": "Arjun M Nag",
+      "Email": "arjun.mnag27@gmail.com",
+      "DOB": "2024-07-30",
+      "Username": "Arjun",
+      "Password": "Arju",
+      "Mobile": "8722044898"
+    },
+    {
+      "id": "6e64",
+      "Name": "vbndgfasy",
+      "Email": "Arjun@gmail.com",
+      "DOB": "2024-09-04",
+      "Username": "Arjun",
+      "Password": "Arju",
+      "Mobile": "8722044898"
+    }
+  ],
+  "Product": [
+    {
+      "id": "1249",
+      "Gender": "Male",
+      "Type": "Kurta",
+      "Material": "Polistare",
+      "Size": "M",
+      "Quantity": "4",
+      "Rate": "5580",
+      "Rating": "1 Star",
+      "Description": "Good Product",
+      "Image": "C:\\fakepath\\ADC"
+    },
+    {
+      "id": "d9c4",
+      "Gender": "Female",
+      "Type": "T-Shirt",
+      "Material": "Jeans",
+      "Size": "M",
+      "Quantity": "550",
+      "Rate": "4586",
+      "Rating": "4 Star",
+      "Description": "nckdhcud",
+      "Image": "C:\\fakepath\\123.avif"
+    },
+    {
+      "id": "972e",
+      "Gender": "Male Kids",
+      "Type": "Tops",
+      "Material": "Jeans",
+      "Size": "XXL",
+      "Quantity": "12",
+      "Rate": "1256",
+      "Rating": "3 Star",
+      "Description": "Nice Products",
+      "Image": "C:\\fakepath\\ADC"
+    },
+    {
+      "id": "6f97",
+      "Gender": "Female",
+      "Type": "T-Shirt",
+      "Material": "Jeans",
+      "Size": "XS",
+      "Quantity": "100",
+      "Rate": "1256",
+      "Rating": "2 Star",
+      "Description": "nckdhcud",
+      "Image": "C:\\fakepath\\ADC"
+    },
+    {
+      "id": "39af",
+      "Gender": "Female",
+      "Type": "Shirt",
+      "Material": "Slik",
+      "Size": "L",
+      "Quantity": "250",
+      "Rate": "7895",
+      "Rating": "4 Star",
+      "Description": "Good Product have a nice",
+      "Image": "C:\\fakepath\\ADC"
+    },
+    {
+      "id": "542f",
+      "Gender": "Male Kids",
+      "Type": "T-Shirt",
+      "Material": "Polistare",
+      "Size": "S",
+      "Quantity": "152",
+      "Rate": "8975",
+      "Rating": "1 Star",
+      "Description": "Good Product have a nice",
+      "Image": "C:\\fakepath\\123.avif"
+    },
+    {
+      "id": "bd66",
+      "Gender": "Male Kids",
+      "Type": "T-Shirt",
+      "Material": "Polistare",
+      "Size": "S",
+      "Quantity": "152",
+      "Rate": "8975",
+      "Rating": "1 Star",
+      "Description": "Good Product have a nice",
+      "Image": "C:\\fakepath\\123.avif"
+    },
+    {
+      "id": "53ec",
+      "Gender": "Female",
+      "Type": "T-Shirt",
+      "Material": "Jeans",
+      "Size": "M",
+      "Quantity": "15",
+      "Rate": "8000",
+      "Rating": "3 Star",
+      "Description": "Good",
+      "Image": "C:\\fakepath\\ADC"
+    },
+    {
+      "Gender": "Male",
+      "Type": "Pants",
+      "Material": "Slik",
+      "Size": "M",
+      "Quantity": "15",
+      "Rate": "8656",
+      "Rating": "3 Star",
+      "Description": "nckdhcud",
+      "Image": "C:\\fakepath\\ADC1.gif",
+      "id": "6091"
+    },
+    {
+      "id": "c612",
+      "Gender": "Male",
+      "Type": "T-Shirt",
+      "Material": "Slik",
+      "Size": "S",
+      "Quantity": "3",
+      "Rate": "5000",
+      "Rating": "1 Star",
+      "Description": "Nice Products",
+      "Image": "C:\\fakepath\\ADC"
+    },
+    {
+      "id": "a8f6",
+      "Gender": "Female",
+      "Type": "Tops",
+      "Material": "Polistare",
+      "Size": "S",
+      "Quantity": "02",
+      "Rate": "5526",
+      "Rating": "1 Star",
+      "Description": "Nice Products",
+      "Image": "C:\\fakepath\\ADC1.gif"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#dv1{
+    width: 86vw;
+    height: 80vh;
+    box-shadow: 0px 0px 15px;
+    border-radius: 15px;
+    /* background-color: bisque; */
+}
+
+#dvn{
+    width: 86vw;
+    height: 40px;
+    border-radius: 15px;
+    background-image: url(../../public/images/br1.jpg);
+    font-size: 25px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 0px 0px 40px white;
+}
+
+#dvd1{
+    width: 86vw;
+    height: 72vh;
+    background-color:white;
+    border-radius: 15px;
+    overflow: scroll;
+    display: flex;
+    justify-content: center;
+}
+
+#dvt{
+    margin-top: 15px;
+    border:none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.472);
+    width:90%;
+}
+
+#dvth{
+    border:none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.472);
+    background-color: rgb(99, 5, 99) ;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+
+#dvtr{
+    border:none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.472);
+    text-align: center;
+    font-size: 12px;
+}
+
+ 
+
+#tdbi{
+    width: 100px;
+    height: 100px;
+}
+
+#tdb1{
+    width: 20px;
+    height: 20px;
+    background: none;
+    background-image: url(../../public/images/edit1.png);
+    background-repeat: no-repeat;
+    /* background-position: 10%; */
+    background-size: contain;
+    border: none;
+    margin-top: 4px;
+}
+#tdb2{
+    width: 20px;
+    height: 20px;
+    background: none;
+    background-image: url(../../public/images/delete1.png);
+    background-repeat: no-repeat;
+    /* background-position: 10%; */
+    background-size: contain;
+    border: none;
+    margin-top: 4px;
+}

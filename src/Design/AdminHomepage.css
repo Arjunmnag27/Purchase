@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#ahphr {
+    border: 0px;
+}
+
+#ahpd1{
+width: 100vw;
+height: 80vh;
+/* background-color: aqua; */
+
+display: flex;
+align-items: center;
+justify-content:space-between;      
+} 
